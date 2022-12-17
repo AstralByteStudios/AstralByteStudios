@@ -1,8 +1,7 @@
 - 👋 Hola! Soy @JoanRamirezFuster
 - 👀 Estoy interesado en HTML and CSS
-- Estudios:
-- "CFGM Sistemas Microinformàticos Y Redes
-- "CFGS Administración De Sistemas Informàticos En Red
+- 📚"CFGM Sistemas Microinformàticos Y Redes
+- 📚"CFGS Administración De Sistemas Informàticos En Red
 
 <!---
 JoanRamirezFuster/JoanRamirezFuster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
