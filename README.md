@@ -1,7 +1,7 @@
 - 👋 Hola! Soy @JoanRamirezFuster
 - 👀 Estoy interesado en HTML and CSS
 - Estudios:
-- "CFGM 
+- "CFGM Sistemas Microinformàticos Y Redes
 - "CFGS Administración De Sistemas Informàticos En Red
 
 <!---
