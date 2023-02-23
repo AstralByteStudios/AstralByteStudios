@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, me llamo Joan Ramirez Fuster</h1>
 <h3 align="center">Soy un apasionado del frontend | Y tengo 19 años</h3>
 
-☻ 🌱 Ahora estoy aprendiendo **JavaScript**
+♦ 🌱 Ahora estoy aprendiendo **JavaScript**
 
-☻ 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/JoanRamirezFuster](https://github.com/JoanRamirezFuster)
+• 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/JoanRamirezFuster](https://github.com/JoanRamirezFuster)
 
-☻ 💬 Pregúntame sobre **HTML y CSS**
+○ 💬 Pregúntame sobre **HTML y CSS**
 
 ☻ 📫 Puedes contactar conmigo por **fusterramirezjoan@gmail.com**
 
