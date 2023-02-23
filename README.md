@@ -1,6 +1,5 @@
 <h1 align="center">Hola 👋, me llamo Joan Ramirez Fuster</h1>
-<h3 align="center">Soy un apasionado del frontend</h3>
-<h3 align="center">Y tengo 19 años</h3>
+<h3 align="center">Soy un apasionado del frontend | Y tengo 19 años</h3>
 
 - 🌱 Ahora estoy aprendiendo **JavaScript**
 
