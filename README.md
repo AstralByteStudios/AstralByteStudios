@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, me llamo Joan Ramirez Fuster</h1>
 <h3 align="center">Y tengo 19 años</h3>
-
+<br>
 • 🌱 Ahora estoy aprendiendo **JavaScript**
 
 • 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/JoanRamirezFuster](https://github.com/JoanRamirezFuster)
@@ -8,7 +8,7 @@
 • 💬 Pregúntame sobre **HTML y CSS**
 
 • 📫 Puedes contactar conmigo por **fusterramirezjoan@gmail.com**
-
+<br>
 <h3 align="center">¡Contactame!</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/joan-ramírez-fuster-10137b22b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joan-ramírez-fuster-10137b22b/" height="30" width="40" /></a>
