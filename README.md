@@ -6,7 +6,7 @@
 <p align="center">• 🌱 Ahora estoy aprendiendo *JavaScript*</p>
 <p align="center">• 👨‍💻 Todos mis proyectos están disponibles en https://github.com/JoanRamirezFuster</p>
 <p align="center">• 💬 Pregúntame sobre **HTML y CSS**</p>
-<p align="center">• 📫 Puedes contactar conmigo por **fusterramirezjoan@gmail.com**</p>
+<p align="center">• 📫 Puedes contactar conmigo por *fusterramirezjoan@gmail.com*</p>
 <br>
 <br>
 <br>
