@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, me llamo Joan Ramirez Fuster</h1>
+<h1 align="center">Hola <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" alt="linux" width="40" height="40"/>, me llamo Joan Ramirez Fuster</h1>
 <h3 align="center">Y tengo 19 años</h3>
 <br>
 <br>
