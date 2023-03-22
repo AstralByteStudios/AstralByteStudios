@@ -1,4 +1,4 @@
-<h1 align="center">Hola <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/crossed-fingers_1f91e.gif" alt="linux" width="40" height="40"/>, me llamo Joan Ramirez Fuster</h1>
+<h1 align="center">¡Hola! <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/crossed-fingers_1f91e.gif" alt="linux" width="40" height="40"/>, me llamo Joan Ramirez Fuster</h1>
 <p align="center">Soy una persona trabajadora y optimista que presta atención a los detalles y que disfruta trabajando en equipo. Además, también me considero una persona autodidacta que siempre está en busca de nuevos conocimientos y habilidades.</p>
 <br>
 <h1 align="center">Intereses</h1>
