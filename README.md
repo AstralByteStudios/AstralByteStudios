@@ -22,7 +22,7 @@
 
 <h1 align="center">🔝Mis Estadisticas🔝</h1>
 <!-- Github Stats -->
-[![SamuelGonzález stats](https://github-readme-stats.vercel.app/api?username=samugd17&show_icons=true)](https://github.com/samugd17/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=joanramirezfuster&show_icons=true)](https://github.com/joanramirezfuster/github-readme-stats
 <br>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=joanramirezfuster&color=blue&style=flat" alt="joanramirezfuster" /></p>
