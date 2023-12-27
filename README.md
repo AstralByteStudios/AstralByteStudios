@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! 👋 Somos Astral Byte</h1>
-<p align="center">Somos un equipo de desarrolladores y diseñadores gráficos comprometidos y creativos que se unen para crear impresionantes páginas web y contenido visual para empresas y creadores de contenido en YouTube.</p>
+<p align="center">Somos un equipo de desarrolladores y diseñadores gráficos comprometidos y creativos que se unen para crear impresionantes páginas web y contenido visual para empresas y creadores de contenido.</p>
 <br>
 <h2 align="center">🌟 Acerca de Nosotros 🌟</h2>
 <p align="center">Nos enorgullecemos de trabajar en equipo, prestando atención a los detalles y buscando constantemente la excelencia en cada proyecto. Nuestro enfoque autodidacta nos permite estar siempre en busca de nuevos conocimientos y habilidades para ofrecer soluciones innovadoras y efectivas.</p>
