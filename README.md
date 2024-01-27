@@ -1,5 +1,3 @@
-![astral](https://github.com/AstralByteStudios/AstralByteStudios/assets/104223738/9bf88d06-39c3-4782-a81c-fcfdf317539a)
-<br>
 <h1 align="center">¡Hola! 👋 Somos Astral Byte</h1>
 <p align="center">Somos un equipo de desarrolladores y diseñadores gráficos comprometidos y creativos que se unen para crear impresionantes páginas web y contenido visual para empresas y creadores de contenido en YouTube.</p>
 <br>
