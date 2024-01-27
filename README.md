@@ -1,3 +1,7 @@
+<div align="center">
+<img src="/src/astral.png" height="40px"/> 
+</div>
+<br>
 <h1 align="center">¡Hola! 👋 Somos Astral Byte</h1>
 <p align="center">Somos un equipo de desarrolladores y diseñadores gráficos comprometidos y creativos que se unen para crear impresionantes páginas web y contenido visual para empresas y creadores de contenido en YouTube.</p>
 <br>
