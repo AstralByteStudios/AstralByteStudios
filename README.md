@@ -13,7 +13,7 @@
 <h2 align="center">📬 Contáctanos 📬</h2>
 <p align="center">
   <a href="https://www.instagram.com/astral_byte_studios/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <p align="center">📧 Correo Electrónico: contacto@astralbyte.com 📧</p>
+  <p align="center">📧 Correo Electrónico: astralbytestudios@gmail.com 📧</p>
 </p>
 <br>
 <h2 align="center">🛠️ Habilidades 🛠️</h2>
